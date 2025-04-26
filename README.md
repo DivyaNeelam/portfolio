@@ -85,5 +85,5 @@ Extend the project by adding more features like a blog, project filter, or conta
 👨‍💻 Author
 Neelam Divya
 linkedin: https://www.linkedin.com/in/divya-neelam-482b49282 
-gitub:
-| [Your Portfolio Link]
+gitub:https://github.com/DivyaNeelam
+
